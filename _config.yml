@@ -1,8 +1,8 @@
-title: Your Site Title
-description: >- # this means to ignore newlines until "baseurl:"
-  Your site description.
+title: Edward Quadtree talks tech
+  #description: >- # this means to ignore newlines until "baseurl:"
+  #  Your site description.
 baseurl: "" # the subpath of your site, e.g. /blog, leave empty if no subpath
-url: "https://yourusername.github.io" # the base hostname & protocol for your site
+url: "https://edward-quadtree.github.io" # the base hostname & protocol for your site
 theme: minima # or your chosen theme
 
 # Build settings
